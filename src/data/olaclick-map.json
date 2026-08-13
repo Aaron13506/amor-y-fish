@@ -1,0 +1,116 @@
+{
+  "starDishesItems": {
+    "1": {
+      "olaclickId": "db211f20-1dcf-11ef-81c0-9995fcc988ad",
+      "olaclickName": "AMOR & FISH ROLL / Completo (10 Rolls)",
+      "fallbackPrice": "17.81"
+    },
+    "2": {
+      "olaclickId": "8b94a650-1d27-11ef-b333-fd7145301f02",
+      "olaclickName": "CEVICHE CLÁSICO",
+      "fallbackPrice": "10.93"
+    },
+    "3": {
+      "olaclickId": "d5921050-1d19-11ef-99b0-fff6bb53a6bd",
+      "olaclickName": "TARTAR DE ATÚN",
+      "fallbackPrice": "11.95"
+    },
+    "4": {
+      "olaclickId": "816d4a10-1d20-11ef-b5be-4b19253e6718",
+      "olaclickName": "COQUITOS DE SALMÓN (6 UNDs.)",
+      "fallbackPrice": "19.17"
+    },
+    "5": {
+      "olaclickId": "558a4b60-1d24-11ef-8b19-c3dd97ce06d5",
+      "olaclickName": "SUSHI PIZZA DE SALMÓN",
+      "fallbackPrice": "12.80"
+    },
+    "6": {
+      "olaclickId": "456b3a60-1d2a-11ef-9c49-aded6edd4c65",
+      "olaclickName": "SUSHI BURGER DE SALMÓN",
+      "fallbackPrice": "13.80"
+    },
+    "7": {
+      "olaclickId": "e910f8f0-1d39-11ef-8a0a-91f159d08780",
+      "olaclickName": "POKE DE SALMÓN",
+      "fallbackPrice": "15.98"
+    },
+    "8": {
+      "olaclickId": "2dbf3750-1dce-11ef-8a73-c5d8f04ce0bd",
+      "olaclickName": "RAMEN MIXTO",
+      "fallbackPrice": "13.20"
+    },
+    "9": {
+      "olaclickId": "ec3f9760-1dca-11ef-b5d0-c5a27bfdf6b5",
+      "olaclickName": "WOK DE FIDEOS MARINERO",
+      "fallbackPrice": "15.40"
+    },
+    "10": {
+      "olaclickId": "63db0710-1e99-11ef-9d73-072e1d6b696d",
+      "olaclickName": "FUJI ROLL ESPECIAL / Completo (10 Rolls)",
+      "fallbackPrice": "12.65"
+    },
+    "11": {
+      "olaclickId": "c12b5cb0-1ea7-11ef-b37b-b5e6e372171f",
+      "olaclickName": "TIGER ROLL ESPECIAL CRISPY / Completo (10 Rolls)",
+      "fallbackPrice": "17.38"
+    }
+  },
+  "startersItems": {
+    "1": {
+      "olaclickId": "e74d6390-1d1a-11ef-bbd9-b78d2afb9f84",
+      "olaclickName": "EDAMAME",
+      "fallbackPrice": "6.60"
+    },
+    "2": {
+      "olaclickId": "d92c0d00-1d1a-11ef-b395-9f6b51d2d7db",
+      "olaclickName": "WAKAME",
+      "fallbackPrice": "6.94"
+    },
+    "3": {
+      "olaclickId": "9ec2fcb1-f75a-4847-b0b1-dc72d5f94e5c",
+      "olaclickName": "GYOZAS CON SALSA PONZU Y CHILI OIL",
+      "fallbackPrice": "11.00"
+    },
+    "4": {
+      "olaclickId": "d61bb770-1d18-11ef-972c-07c10aa1a5d6",
+      "olaclickName": "LANGOSTINOS CRUNCHY (6 UNDs.)",
+      "fallbackPrice": "11.55"
+    },
+    "5": {
+      "olaclickId": "9023ebb0-1d1c-11ef-8136-7ba0599b910a",
+      "olaclickName": "CROQUETAS DE CANGREJO  (5 UNDs.)",
+      "fallbackPrice": "8.76"
+    },
+    "6": {
+      "olaclickId": "b0af7840-1d1b-11ef-86f3-35f08c819d0b",
+      "olaclickName": "NIGIRIS SURTIDOS (6 UNDs.)",
+      "fallbackPrice": "12.65"
+    },
+    "7": {
+      "olaclickId": "385844a0-1d21-11ef-947f-9b39de8c3d75",
+      "olaclickName": "TATAKI DE ATÚN (6 Unidades)",
+      "fallbackPrice": "9.90"
+    },
+    "8": {
+      "olaclickId": "458ede90-1d1c-11ef-8fb4-27594a6cf713",
+      "olaclickName": "SASHIMI MIXTO ESPECIAL (12 UNDs.)",
+      "fallbackPrice": "20.80"
+    },
+    "9": {
+      "olaclickId": "00903190-1d28-11ef-81fd-2906ae76f30c",
+      "olaclickName": "CEVICHE AMOR & FISH",
+      "fallbackPrice": "11.00"
+    },
+    "10": {
+      "olaclickId": "49cf46c0-1d28-11ef-9d94-97aea8ff3b00",
+      "olaclickName": "CEVICHE MARINERO",
+      "fallbackPrice": "13.82"
+    },
+    "11": {
+      "olaclickId": "e8313300-1d28-11ef-9601-2bd049d2e6be",
+      "olaclickName": "\"NUEVO\" TRIO DE CEVICHES",
+      "fallbackPrice": "18.14"
+    }
+  }
+}

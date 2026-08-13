@@ -1,0 +1,4 @@
+[
+  { "id": "starDishes", "image": "/images/menu/platos-estrella.jpg" },
+  { "id": "starters", "image": "/images/menu/entradas.jpg" }
+]

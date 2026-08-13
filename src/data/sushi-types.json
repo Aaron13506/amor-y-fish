@@ -1,0 +1,14 @@
+[
+  {
+    "title": "nigiriSushi",
+    "image": "/images/sushi-types/rolls-especiales.jpg"
+  },
+  {
+    "title": "makiRolls",
+    "image": "/images/sushi-types/ceviches-nikkei.jpg"
+  },
+  {
+    "title": "sashimiPlatter",
+    "image": "/images/sushi-types/fusion-de-autor.jpg"
+  }
+]

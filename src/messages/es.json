@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "Amor & Fish",
+    "subTitle": "Con amor todo se puede lograr",
+    "logo": "Logo",
+    "sushiImage": "Imagen de Sushi",
+    "scroll": "Desplazarse",
+    "hamburgerMenu": "Abrir Menú de Navegación"
+  },
+  "NavMenu": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "atmosphere": "Ambiente",
+    "access": "Ubicación",
+    "navigationMenu": "Menú de Navegación",
+    "order": "Ordena Ya"
+  },
+  "SushiTypes": {
+    "title": "Nuestras Especialidades",
+    "nigiriSushiTitle": "Rolls Especiales",
+    "nigiriSushiDescription": "Descubre nuestros rolls de autor como el Fuji Roll Especial, el Alaska Especial Roll y el Soya Ebi Roll, preparados con ingredientes frescos y naturales.",
+    "makiRollsTitle": "Ceviches Nikkei",
+    "makiRollsDescription": "Nuestros ceviches combinan la tradición peruana con un toque venezolano: pescados y mariscos frescos marinados con ingredientes naturales y mucho sabor.",
+    "sashimiPlatterTitle": "Fusión de Autor",
+    "sashimiPlatterDescription": "Creaciones únicas como la Sushi Pizza de Atún, el Sushi Burger de Salmón y el Tartar de Atún, donde la cocina nikkei se encuentra con la innovación venezolana.",
+    "intro": "Nuestra inspiración se basa en mezclar los sabores de origen de la gastronomía Nikkei (japonesa peruana) con el ingenio que nos caracteriza como venezolanos."
+  },
+  "Preparation": {
+    "title": "Nuestra Filosofía",
+    "preparation": "En la vida siempre existirán pequeños detalles que nos crean un buen motivo especial para vigorizarnos, reconfortarnos y compartir con amigos, familia, o tu ser más querido."
+  },
+  "Menu": {
+    "menu": "Menú",
+    "currency": "$",
+    "starDishesTitle": "Platos Estrella",
+    "starDishesItems": {
+      "1": {
+        "title": "Amor & Fish Roll",
+        "price": "16.00"
+      },
+      "2": {
+        "title": "Ceviche Clásico",
+        "price": "10.93"
+      },
+      "3": {
+        "title": "Tartar de Atún",
+        "price": "11.95"
+      },
+      "4": {
+        "title": "Coquitos de Salmón (6 u.)",
+        "price": "19.17"
+      },
+      "5": {
+        "title": "Sushi Pizza de Salmón",
+        "price": "11.60"
+      },
+      "6": {
+        "title": "Sushi Burger de Salmón",
+        "price": "13.20"
+      },
+      "7": {
+        "title": "Poke de Salmón",
+        "price": "14.02"
+      },
+      "8": {
+        "title": "Ramen Mixto",
+        "price": "13.20"
+      },
+      "9": {
+        "title": "Wok de Fideos Marinero",
+        "price": "15.40"
+      },
+      "10": {
+        "title": "Fuji Roll Especial",
+        "price": "12.65"
+      },
+      "11": {
+        "title": "Tiger Roll Especial Crispy",
+        "price": "16.13"
+      }
+    },
+    "startersTitle": "Entradas y Ceviches",
+    "startersItems": {
+      "1": {
+        "title": "Edamame",
+        "price": "6.60"
+      },
+      "2": {
+        "title": "Wakame",
+        "price": "6.94"
+      },
+      "3": {
+        "title": "Gyozas (6 u.)",
+        "price": "11.00"
+      },
+      "4": {
+        "title": "Langostinos Crunchy (6 u.)",
+        "price": "11.55"
+      },
+      "5": {
+        "title": "Croquetas de Cangrejo (5 u.)",
+        "price": "8.76"
+      },
+      "6": {
+        "title": "Nigiris Surtidos (6 u.)",
+        "price": "12.65"
+      },
+      "7": {
+        "title": "Tataki de Atún (6 u.)",
+        "price": "9.90"
+      },
+      "8": {
+        "title": "Sashimi Mixto Especial",
+        "price": "20.80"
+      },
+      "9": {
+        "title": "Ceviche Amor & Fish",
+        "price": "11.00"
+      },
+      "10": {
+        "title": "Ceviche Marinero",
+        "price": "13.82"
+      },
+      "11": {
+        "title": "Trío de Ceviches",
+        "price": "18.14"
+      }
+    }
+  },
+  "Testimonials": {
+    "title": "Testimonios",
+    "source": "Reseñas publicadas por nuestros clientes en Google",
+    "rating": "{rating} de 5 estrellas",
+    "testimonial1Name": "Jenny Nielsen",
+    "testimonial1Testimonial": "“Excelente lugar, la comida es deliciosa, pedimos sushi y el pescado estaba fresco, también pedimos un plato tipo poke, con atún y quinoa, muy bueno. Los tragos bien preparados y la atención es buena, el personal es atento y amable.”",
+    "testimonial2Name": "Mariannys Marimar",
+    "testimonial2Testimonial": "“¡Me encantó este lugar! La comida tiene un sabor increíble, especialmente el wok mixto que pedí; estaba en su punto y se notaba que todo era súper fresco. Además, el ambiente es demasiado agradable para pasar el rato y la atención fue de diez, me trataron súper bien desde que llegué. Es de esos sitios a los que provoca volver porque todo es perfecto.”",
+    "testimonial3Name": "Nélida Mendoza",
+    "testimonial3Testimonial": "“Es un lugar precioso, muy cómodo, bonito ambiente. La comida súper rica, excelente la presentación del sushi y ricos sabores, ya he ido varias veces y lo que más me ha gustado es la llegada del postre, ¡10/10 el brownie con helado! Muy buena atención, se aseguraron de darnos un buen servicio, buena atención a los detalles. Espero poder regresar, disfruté mucho todos los platos.”"
+  },
+  "Atmosphere": {
+    "title": "Ambiente",
+    "description": "Entendemos la necesidad y constante búsqueda de las personas de comer sano, sabroso y conveniente: eso es lo que caracteriza a un restaurante de comida casual, con mezcla de sabores distintivos y un ambiente donde impere la tranquilidad, la cordialidad y la alegría."
+  },
+  "Reservation": {
+    "title": "¡Ordena Ya!",
+    "description": "Mediante nuestro sistema en línea puedes pedir todos nuestros platos desde la comodidad de tu casa u oficina, para ser entregado con nuestro propio delivery. Además, si prefieres pasarlo a buscar, lo puedes recoger sin bajarte de tu vehículo.",
+    "buttonText": "Ver Menú y Pedir",
+    "phoneTitle": "Reservaciones y consultas"
+  },
+  "Access": {
+    "mapAlt": "Mapa de ubicación de Amor & Fish en Av. El Estadio con Av. Alma Mater, Los Chaguaramos, Caracas",
+    "title": "Ubicación",
+    "addressTitle": "Dirección",
+    "addressText": "Av. El Estadio, cruce con calle Alma Mater, Qta. Amor & Fish (a 100 metros de la CANTV), Urb. Los Chaguaramos, Caracas",
+    "accessTitle": "Horario",
+    "accessText": "Lunes a domingo, de 12:00 PM a 10:00 PM",
+    "enquiryTitle": "Consultas"
+  },
+  "Other": {
+    "backToTop": "Volver Arriba"
+  }
+}

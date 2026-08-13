@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* las animaciones de entrada desplazan los elementos ±50px antes de
+     aparecer; en movil eso genera scroll horizontal y descuadra la barra fija */
+  body {
+    overflow-x: hidden; /* respaldo para navegadores sin 'clip' */
+    overflow-x: clip;
+  }
+}
+
+/* movil: el zoom lento hasta 1.5 recorta demasiado sobre un encuadre vertical
+   que ya viene muy ampliado */
+@keyframes zoom-sm {
+  0% {
+    scale: 1;
+  }
+  100% {
+    scale: 1.2;
+  }
+}
+
+/* el selector lleva 'img' para ganarle a las utilidades de tailwind, que se
+   generan despues de esta hoja */
+@media (max-width: 767px) {
+  /* el hero es vertical y de la foto 16:9 solo se ve una franja estrecha,
+     asi que cada slide define su punto focal (ver settings/slider) */
+  img.slider-image {
+    object-position: var(--focus, 50%) center;
+  }
+
+  img.animate-zoom {
+    animation-name: zoom-sm;
+  }
+}
